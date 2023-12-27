@@ -1,0 +1,5 @@
+- Language used: C++ for Arduino programming
+- Objective: Develop a secure and convenient door access system using hand gestures as authentication
+- Components: PAJ7620, Arduino Uno
+- Purpose: Provide an alternative to traditional key-based and electronic keycard door locks
+- Benefits: More intuitive and user-friendly method of entry, while maintaining high levels of security
